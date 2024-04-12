@@ -1,0 +1,16 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "The Dummy package is a utility library designed to generate dummy data for testing purposes. It provides functions to create various types of dummy data, including words, names, paragraphs, email addresses, phone numbers, and more. These functions are useful for generating placeholder data when testing applications or prototypes, or when populating databases with sample data for development and testing.",
+  "main": "dummy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dummy",
+    "test",
+    "random"
+  ],
+  "author": "Jawad Elyousfi",
+  "license": "MIT"
+}
